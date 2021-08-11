@@ -4,7 +4,7 @@ A glass-water-motion animation app
 
 ## Description
 
-This application contains a [rive](https://rive.app/) (2D animation software) animation, which is imported and input (in this case click) controlled in flutter.
+This application contains a [rive](https://rive.app/) (2D animation software) animation, which is imported and input controlled in flutter.
 
 ## Use case
 
