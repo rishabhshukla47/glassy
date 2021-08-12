@@ -6,6 +6,9 @@ A glass-water-motion animation app
 
 This application contains a [rive](https://rive.app/) (2D animation software) animation, which is imported and input controlled in flutter.
 
+## Showcase
+<img src="https://user-images.githubusercontent.com/83495424/129258325-9cad2f78-fde0-4c96-8343-9a21783faf0c.gif" alt="alt text" width="640" height="360">
+
 ## Use case
 
 The animation and functionality, both can be used to create loading animations.  
@@ -36,7 +39,5 @@ The animation and functionality, both can be used to create loading animations.
 ## Usage
 * Click on the floating action button to play and pause the animation subsequently.
 
-
-## Showcase
 
 
